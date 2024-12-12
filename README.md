@@ -5,3 +5,5 @@ There are somemodule in here taken straight from odoo community, just as example
 
 
 # This file has been forked from another github  respo.
+
+Deleted deploy keys
